@@ -8,7 +8,7 @@ Dans cet exo, aucune depédance externe n'est requise.
 ## Exécution des commandes python pour tester add; list and delete. 
 1. ouvrez dans votre terminal le fichier tasks.json
 . Exécutez la commande: `python -m task_manager.cli add "Test1: Adding task1"`
-### Le fichier `tasks.json` devrait mse mettre à jour et contenir le code suivant:
+###### Le fichier `tasks.json` devrait mse mettre à jour et contenir le code suivant:
 ```
 [
     {
@@ -19,6 +19,6 @@ Dans cet exo, aucune depédance externe n'est requise.
 ]
 ```
 2. Listez les tâches: `python -m task_manager.cli list`
-### Dans votre terminal, vous aure la sortie: `{'id': 1, 'description': 'Test1: Adding task', 'priority': 1}`
+###### Dans votre terminal, vous aure la sortie: `{'id': 1, 'description': 'Test1: Adding task', 'priority': 1}`
 3. Supprimez la tâche: `python -m task_manager.cli delete 1`
-### Le fichier `tasks.json` devrait maintenant être vide.
+###### Le fichier `tasks.json` devrait maintenant être vide.
