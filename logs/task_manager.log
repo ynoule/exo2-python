@@ -32,3 +32,12 @@
 2025-03-21 11:47:03,554 - DEBUG - Loaded tasks successfully.
 2025-03-21 11:47:03,554 - DEBUG - Loaded tasks successfully.
 2025-03-21 11:47:03,554 - WARNING - Task with ID 999 not found.
+2025-03-21 11:59:32,451 - DEBUG - Loaded tasks successfully.
+2025-03-21 11:59:32,452 - DEBUG - Tasks saved.
+2025-03-21 11:59:32,452 - INFO - Task added: {'id': 2, 'description': 'Test1: Adding task', 'priority': 1}
+2025-03-21 11:59:32,452 - INFO - Task added: {'id': 2, 'description': 'Test1: Adding task', 'priority': 1}
+2025-03-21 11:59:46,829 - DEBUG - Loaded tasks successfully.
+2025-03-21 11:59:46,829 - DEBUG - Tasks saved.
+2025-03-21 11:59:46,830 - INFO - Task with ID 2 deleted.
+2025-03-21 11:59:46,830 - INFO - Task 2 deleted.
+2025-03-21 12:00:18,473 - DEBUG - Loaded tasks successfully.
